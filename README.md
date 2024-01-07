@@ -6,6 +6,7 @@ Move.Orders คือ Order service ของโครงการ Move พั�
 Created project on WSL
 - On Windows 11 Pro can open and run project correctly.
 - On Windows 11 Pro with reopen in Container can open but can't build.
+- On Mac OS can open and run project correctly.
 
 ## Source code structures
 
